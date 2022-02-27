@@ -1,0 +1,2006 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>VVit revived: or, a new and excellent way of divertisement, digested into most ingenious questions and answers. / By Asdryasdust Tossoffacan.</title>
+            <author>Gayton, Edmund, 1608-1666.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 58 KB of XML-encoded text transcribed from 37 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85879</idno>
+            <idno type="STC">Wing G423</idno>
+            <idno type="STC">Thomason E1703_1</idno>
+            <idno type="STC">ESTC R209378</idno>
+            <idno type="EEBO-CITATION">99868257</idno>
+            <idno type="PROQUEST">99868257</idno>
+            <idno type="VID">170281</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85879)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170281)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 212:E1703[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>VVit revived: or, a new and excellent way of divertisement, digested into most ingenious questions and answers. / By Asdryasdust Tossoffacan.</title>
+                  <author>Gayton, Edmund, 1608-1666.</author>
+               </titleStmt>
+               <extent>72 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author, and are to be sold at the Brazen Serpent in Saint Pauls Church-yard.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1656 [i.e. 1655]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Asdryasdust Tossoffacan = Edmund Gayton.</note>
+                  <note>Thomason Received his copy in November 1655.</note>
+                  <note>Annotation on Thomason copy: "November 27"; also the last number of the imprint date have been marked through and replaced with a "5".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Satire, English --  17th Century.</term>
+               <term>English wit and humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170281:1" rendition="simple:additions"/>
+            <p>VVIT REVIVED: OR, A New and Excellent way of divertiſement, digeſted into moſt ingenious QVESTIONS AND ANSWERS.</p>
+            <p>By Aſdryaſduſt Toſſoffacan.</p>
+            <p>LONDON, Printed for the Author, and are to be ſold at the Brazen Ser<g ref="char:EOLhyphen"/>pent in Saint Pauls Church-yard. 1656.</p>
+         </div>
+      </front>
+      <body>
+         <div type="questions_and_answers">
+            <pb facs="tcp:170281:2"/>
+            <pb n="3" facs="tcp:170281:2"/>
+            <head>QVESTIONS AND ANSWERS.</head>
+            <p>Q. <hi>WHat day was that as the like never was before?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The firſt.</p>
+            <p>Q. <hi>Whether has a horſe or no horſe more legs.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No horſe: For a horſe has foure legs, and no horſe has more.</p>
+            <p>Q. <hi>When is a Cow roundeſt?</hi>
+            </p>
+            <pb n="4" facs="tcp:170281:3"/>
+            <p>
+               <hi>A.</hi> When ſhee lickes her ireech.</p>
+            <p>Q. <hi>Whats the reaſon a horſe foams ſo at the mouth?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe he never ſpits.</p>
+            <p>Q. <hi>What is the likeſt to a cat in a hole?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A cat out of a hole.</p>
+            <p>Q. <hi>How ſhould one ſtop three holes with one thing?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By putting one mans noſe in another mans—</p>
+            <p>Q. <hi>Why is a mad man as ſtrong as two men?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe he's a man beſide himſelfe.</p>
+            <p>Q. <hi>Why is love ſaid to bee an ancient family?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe when <hi>Adam</hi> and <hi>Eve</hi> firſt met, ſhitten come ſhites was the beginning of love.</p>
+            <p>
+               <hi>How many ſides hath a man?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Eight: inſide, outſide, brght ſide, left ſide, upper ſide,
+<pb n="5" facs="tcp:170281:3"/>lower ſide, foreſide, backſide.</p>
+            <p>Q. <hi>What is the beſt receipt to make a fat Lady leane?</hi>
+            </p>
+            <p>A. To keep her eies open, and her mouth ſhut.</p>
+            <p>Q. <hi>Why doe the French ſend Rabbets to their Tables with their feet on?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe (being a frugall people) they may goe the further.</p>
+            <p>Q. <hi>Why is the afternoon ſaid to be ſhorter then the forenoon?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe the Sunne goes down the hill.</p>
+            <p>Q. <hi>Why did Sir</hi> Theodore Mayherne <hi>dye?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe he could live no longer.</p>
+            <p>Q. <hi>Why doe ſo many drinke Cauphe?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe 'tis good againſt a Clap.</p>
+            <p>Q. <hi>Why is the worſt woman in the world good?</hi>
+            </p>
+            <pb n="6" facs="tcp:170281:4"/>
+            <p>
+               <hi>A.</hi> Becauſe ſhe's good for ſomthing, or good for nothing.</p>
+            <p>Q. <hi>Why is a broad hat ſaid to be full?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe 'tis a brimmer.</p>
+            <p>Q. <hi>Why doth a Fox prey a<g ref="char:EOLhyphen"/>broad?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe he hath nothing at home.</p>
+            <p>Q. <hi>Why is it ſaid that wiſe men aske more queſtions then fools?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe no man is wiſe without queſtion.</p>
+            <p>Q. <hi>What may wee thinke on, and yet think on nothing?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Womens conſtancy.</p>
+            <p>Q. <hi>May we think dooms day to be neare, or no?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No: for then there ſhal hardly be any faith; now there is nothing elſe.</p>
+            <p>Q. <hi>What is the difference be<g ref="char:EOLhyphen"/>tween a Lord and a meaner man?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A word.</p>
+            <pb n="7" facs="tcp:170281:4"/>
+            <p>Q. <hi>What may a virtuous plain man ſay to women having naked breaſts?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Shut your ſhop-win<g ref="char:EOLhyphen"/>dowes for ſhame.</p>
+            <p>Q. <hi>Who may bee thought to ſmell never well?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They that ſmel ever wel.</p>
+            <p>Q. <hi>Who may be thought to be no mans friend?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He that is every mans.</p>
+            <p>Q. <hi>Why is it ſaid 'tis better to have a little wife, then a great wife?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe of evils the leaſt is to be choſen: Or, it is beſt to have a wife but little.</p>
+            <p>Q. <hi>Why is the husband ſaid to weare hornes, and not the wife?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe he is the head.</p>
+            <p>Q. <hi>Why are there ſo many Cuckolds?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe ſo many marry.</p>
+            <p>Q. <hi>Why doe many Preachers
+<pb n="8" facs="tcp:170281:5"/>winke when they pray;</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe they would bee thought to know the way to heaven ſo well, that they could find it blindfold.</p>
+            <p>Q. <hi>Why are ſome gallants like Philoſophers?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe they carry all their wealth about them.</p>
+            <p>Q. <hi>Why are ſome Ladies like unto tame comes?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe their skins are more worth then their bodies.</p>
+            <p>Q. <hi>What kind of garment doe women moſt love to weare?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The breeches.</p>
+            <p>Q. <hi>What kind of booke may a man wiſh his wife were like?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> An Almanack; for, ſo he may have a new one every year.</p>
+            <p>Q. <hi>Why are there ſo many poor Phyſitians?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe it is a very back<g ref="char:EOLhyphen"/>ward profeſſion.</p>
+            <p>Q. <hi>Why are Lords and great
+<pb n="9" facs="tcp:170281:5"/>men beheaded for treaſon, and meaner men not?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe they are the more capitall offenders.</p>
+            <p>Q. <hi>Have the Clergy got any advantage by marrying of wives, or no?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No: For they had it in tithes before.</p>
+            <p>Q. <hi>Why doe Miniſters and Lawyers talke ſo loud?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe they are allowed to talke.</p>
+            <p>Q. <hi>Why are fooliſh ſermons ſaid to be the moſt moving?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe ſo few will tarry to heare them.</p>
+            <p>Q. <hi>Why is it ſaid that Epi<g ref="char:EOLhyphen"/>cures and Gluttons are like calves?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe they have a ſweet tooth in their heads.</p>
+            <p>Q. <hi>How may one call a rich man foole, and not offend him?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By telling him he's one of thoſe whom fortune favours.</p>
+            <pb n="10" facs="tcp:170281:6"/>
+            <p>Q. <hi>Why is it ſaid, that painted women may be called whores?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe though there may be no cauſe, yet there is a great deale of colour for it.</p>
+            <p>Q. <hi>May not one that is nei<g ref="char:EOLhyphen"/>ther virgin, wife, nor widow, call her ſelfe a maid?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, forſooth a chamber maid.</p>
+            <p>Q <hi>Which is the next and ſu<g ref="char:EOLhyphen"/>reſt way to be a Cuckold?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To be jealous.</p>
+            <p>Q <hi>Why are Lawyers ſaid to be like to brokers?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe they deale alto<g ref="char:EOLhyphen"/>gether with other mens ſuites.</p>
+            <p>Q. <hi>What may be ſaid of a poor-ſchollars ſhort gowne?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That it will bee long e<g ref="char:EOLhyphen"/>nough ere he have another.</p>
+            <p>Q. <hi>Who are theſe that pocket up moſt wrongs?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Uſurers, Thieves, Souldi<g ref="char:EOLhyphen"/>ers and Lawyers.</p>
+            <pb n="11" facs="tcp:170281:6"/>
+            <p>
+               <hi>Q. Why are ſtates-men ſaid to be like Aſſes?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe they have the longeſt eares of any men.</p>
+            <p>
+               <hi>Q. What may bee ſaid of the worſer ſort of the Clergy?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Hang up your lights.</p>
+            <p>
+               <hi>Q. Why were ſome Miniſters ſo loath to weare a ſurplice?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe it did put them in minde of their wives ſmock.</p>
+            <p>
+               <hi>Q. What language is the beſt to win a widow?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Down-right.</p>
+            <p>Q. <hi>What kinde of inſtrument or weapon is moſt toſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The pot.</p>
+            <p>
+               <hi>Q. What kinde of men ſtand moſt upon Tearmes?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Lawyers.</p>
+            <p>
+               <hi>Q. What kinde of water is the moſt deceitfull?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Womens teares.</p>
+            <p>
+               <hi>Q. What kind of women need masks the moſt?</hi>
+            </p>
+            <pb n="12" facs="tcp:170281:7"/>
+            <p>
+               <hi>A.</hi> Such as have much adoe to avoid being ugly.</p>
+            <p>
+               <hi>Q. Why are women ſaid to bee weaker then men?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe they are moſt put to the wall.</p>
+            <p>
+               <hi>Q. If the husband call his wife whore, how may ſhee anſwer.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> But—</p>
+            <p>
+               <hi>Q. Why are many young gal<g ref="char:EOLhyphen"/>lants ſaid to be like ferrets?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe they creepe ſo much into Cony-holes.</p>
+            <p>
+               <hi>Q. Why were Parſons wives ſaid to be more excuſeable for cuc<g ref="char:EOLhyphen"/>kolding, then other women?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe of their husbands being Non-Reſident.</p>
+            <p>
+               <hi>Q. Why did the Puritans ſpeak through the noſe?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe the high Com<g ref="char:EOLhyphen"/>miſſioners had ſtopt their mouths.</p>
+            <p>
+               <hi>Q. Why doe Lawyers weare round caps, and not ſquare?</hi>
+            </p>
+            <pb n="13" facs="tcp:170281:7"/>
+            <p>
+               <hi>A.</hi> Becauſe ſquare-dealing would undoe them.</p>
+            <p>
+               <hi>Q. What is the beſt ſigne for a trades man new ſet up?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A handſome wife.</p>
+            <p>
+               <hi>Q. Why are Cities and Corpo<g ref="char:EOLhyphen"/>rations no better govern'd?</hi>
+            </p>
+            <p>A. Becauſe the Magiſtrates cannot lay their heads together.</p>
+            <p>
+               <hi>Q. Why are there not women-Lawyers, as well as men?</hi>
+            </p>
+            <p>A. Becauſe they would lay their caſes too open.</p>
+            <p>
+               <hi>Q. Why did Puritans hate May-poles?</hi>
+            </p>
+            <p>A. Becauſe they were things out of their reach.</p>
+            <p>
+               <hi>Q. Why is Virgo ſaid to go<g ref="char:EOLhyphen"/>vern the bowels and belly?</hi>
+            </p>
+            <p>A. Becauſe whores and ma<g ref="char:EOLhyphen"/>ny wives have no government of either.</p>
+            <p>
+               <hi>Q. What deſerves he that pro<g ref="char:EOLhyphen"/>miſeth faire, and doth not accor<g ref="char:EOLhyphen"/>ding?</hi>
+            </p>
+            <pb n="14" facs="tcp:170281:8"/>
+            <p>A. A Cording.</p>
+            <p>
+               <hi>Q. What may be ſaid of many gallants and their legs?</hi>
+            </p>
+            <p>A. That they are to big in the Calve.</p>
+            <p>
+               <hi>Q. What kinde of faces may Scoffers and Criticks be ſaid to have?</hi>
+            </p>
+            <p>A. Muſtard.</p>
+            <p>
+               <hi>Q. May a dog be called Cuc<g ref="char:EOLhyphen"/>kold?</hi>
+            </p>
+            <p>A. No: For 'tis many a good Chriſtian mans name.</p>
+            <p>
+               <hi>Q. May a wanton papiſticall Lady be called a Recuſant?</hi>
+            </p>
+            <p>A. No; but Catholick ſhee may be.</p>
+            <p>
+               <hi>Q. In what are ſome Ladies most conſtant?</hi>
+            </p>
+            <p>A. In inconſtancy.</p>
+            <p>
+               <hi>Q. Why is marriage called Matrimony?</hi>
+            </p>
+            <p>A. Becauſe now adaies it is made matter of money:</p>
+            <p>Q. <hi>What makes ſo many bad wives?</hi>
+            </p>
+            <pb n="15" facs="tcp:170281:8"/>
+            <p>A. So many good husbands.</p>
+            <p>
+               <hi>Q. Why are ſome women more luxurious then beaſts?</hi>
+            </p>
+            <p>A. Becauſe they often couple when they care not to conceive</p>
+            <p>
+               <hi>Q. Why is it to be doubted few Uſurers and Miſers goe not to hea<g ref="char:EOLhyphen"/>ven?</hi>
+            </p>
+            <p>A. Becauſe the journey is coſtly, and they will give no<g ref="char:EOLhyphen"/>thing.</p>
+            <p>
+               <hi>Q. Why is it ſaid that women generally are better then men?</hi>
+            </p>
+            <p>A. Becauſe they cannot be ſo bad.</p>
+            <p>
+               <hi>Q. How may a ſimple ſcholar be handſomely called a foole?</hi>
+            </p>
+            <p>A. By ſaying he is but a ſcho<g ref="char:EOLhyphen"/>lar.</p>
+            <p>
+               <hi>Q. What kind of men may be ſaid to give the moſt credit?</hi>
+            </p>
+            <p>A. Old men that have hand<g ref="char:EOLhyphen"/>ſome young wives.</p>
+            <p>
+               <hi>Q. What places may be ſaid to be the moſt obſcure and darke?</hi>
+            </p>
+            <pb n="16" facs="tcp:170281:9"/>
+            <p>A. Polititians boſomes.</p>
+            <p>
+               <hi>Q. How might a Puritan have been blown out of the pariſh?</hi>
+            </p>
+            <p>A. With a paire of Organs.</p>
+            <p>
+               <hi>Q. What may be ſaid to a cor<g ref="char:EOLhyphen"/>rupt wicked Officer?</hi>
+            </p>
+            <p>A. O-fy-Sir.</p>
+            <p>
+               <hi>Q. What ſort of men need a good memory moſt?</hi>
+            </p>
+            <p>A. Lyers.</p>
+            <p>
+               <hi>Q. Why is a good name ſaid to be ſo pretious?</hi>
+            </p>
+            <p>A. Becauſe hee that has a bad one is halfe hang'd.</p>
+            <p>
+               <hi>Q. What old ſaying is that, which women will never believe?</hi>
+            </p>
+            <p>A. Short and ſweet.</p>
+            <p>
+               <hi>Q. Why are there more women in the world then men?</hi>
+            </p>
+            <p>A. Becauſe there are more weeds then good herbs.</p>
+            <p>
+               <hi>Q. May a married man be cal<g ref="char:EOLhyphen"/>led Ox, in the preſence of his wife?</hi>
+            </p>
+            <p>A. No: but Aſſe he may.</p>
+            <p>
+               <hi>Q. Why were many Courtiers of
+<pb n="17" facs="tcp:170281:9"/>old thought to be the ſons offryars?</hi>
+            </p>
+            <p>A. Becauſe of their begging.</p>
+            <p>
+               <hi>Q. What may a petty felon ſay to a cruell and corrupt Judge?</hi>
+            </p>
+            <p>A. That the greater thieves hang up the leſſe.</p>
+            <p>
+               <hi>Q. What is the worſt, and yet the deareſt commodity in the Kingdome?</hi>
+            </p>
+            <p>A. Lawyers tongues.</p>
+            <p>
+               <hi>Q. What kind of men are we moſt to feare?</hi>
+            </p>
+            <p>A. Men that have red coats or pale faces.</p>
+            <p>
+               <hi>Q. What good Deeds doe Uſu<g ref="char:EOLhyphen"/>rers love moſt?</hi>
+            </p>
+            <p>A. Sealed and delivered.</p>
+            <p>
+               <hi>Q. Who may be ſaid to be the greateſt caſuiſts in the nation?</hi>
+            </p>
+            <p>A. Lawyers.</p>
+            <p>
+               <hi>Q. Whether is common-wolfe or common-wealth the better name for</hi> England?</p>
+            <p>A. Common-wealth.</p>
+            <p>
+               <hi>Q. If all men be worms, what are gallants?</hi>
+            </p>
+            <pb n="18" facs="tcp:170281:10"/>
+            <p>A. Silke-wormes.</p>
+            <p>
+               <hi>Q. What is the beſt dance for Committee-men?</hi>
+            </p>
+            <p>A. The brawles.</p>
+            <p>
+               <hi>Q. Why do many gallants hear a din no better?</hi>
+            </p>
+            <p>A. Becauſe they have locks at their eares.</p>
+            <p>
+               <hi>Q. Why are thieves ſaid tody like ſwans?</hi>
+            </p>
+            <p>A. Becauſe they ſing a little before.</p>
+            <p>
+               <hi>Q. When may we think a wo<g ref="char:EOLhyphen"/>man to be paſt all recovery?</hi>
+            </p>
+            <p>A. When ſhe is ſpeechleſſe.</p>
+            <p>
+               <hi>Q. What is the difference be<g ref="char:EOLhyphen"/>tween a wives being got with child by her husband, and by another man?</hi>
+            </p>
+            <p>A. Conceiving and miſcon<g ref="char:EOLhyphen"/>ceiving.</p>
+            <p>
+               <hi>Q. Why do not women ſolicite Law-ſuites as well as men?</hi>
+            </p>
+            <p>A. Becauſe if they ſhould make their caſes too plaine, no
+<pb n="19" facs="tcp:170281:10"/>body would meddle with them.</p>
+            <p>
+               <hi>Q. Why doe ſome women love honeſty better then men?</hi>
+            </p>
+            <p>A. Becauſe when they are down themſelves, they would have men upright.</p>
+            <p>
+               <hi>Q. If one have an ill wife, whoſe name is</hi> Mary, <hi>may he call her deare</hi> Mal?</p>
+            <p>A. He may: For deare <hi>Mal</hi> is as much as to ſay coſtly ill.</p>
+            <p>
+               <hi>Q. Why are moſt women ſaid to be ſtony hearted?</hi>
+            </p>
+            <p>A. Becauſe they love ſtones heartily.</p>
+            <p>
+               <hi>Q. Why is it ſaid that women doe love fiſh better then fleſh?</hi>
+            </p>
+            <p>A. Becauſe they doe affect and deſire <hi>Place</hi> above all things.</p>
+            <p>
+               <hi>Q. Why are women ſaid to be too hard for men at Iriſh?</hi>
+            </p>
+            <p>A. Becauſe they are better at bearing.</p>
+            <p>
+               <hi>Q. Why are painted women not to be truſted?</hi>
+            </p>
+            <pb n="20" facs="tcp:170281:11"/>
+            <p>A. Becauſe they have two fa<g ref="char:EOLhyphen"/>ces under a hood.</p>
+            <p>
+               <hi>Q. Why are women not like to good wine?</hi>
+            </p>
+            <p>A. Becauſe they have need of a buſh.</p>
+            <p>
+               <hi>Q. Why are crooked men moſt unfit to be ſtewards?</hi>
+            </p>
+            <p>A. Becauſe they will never be able to ſet all things ſtreight.</p>
+            <p>
+               <hi>Q. What may be ſaid of women that marry very young?</hi>
+            </p>
+            <p>A. That they begin to take upon them betimes.</p>
+            <p>
+               <hi>Q. Why doe not ſome Ladies care for plaine dealing?</hi>
+            </p>
+            <p>A. Becauſe they had rather be over-reach'd.</p>
+            <p>
+               <hi>Why are ſooth ſayers no better to be believed?</hi>
+            </p>
+            <p>A. Becauſe ſo few of them ſay ſooth.</p>
+            <p>
+               <hi>Q. What is the worſt thing that is for a man to lend his eare unto?</hi>
+            </p>
+            <pb n="21" facs="tcp:170281:11"/>
+            <p>A. Pillory.</p>
+            <p>
+               <hi>Q. What is the beſt receipt to take away the ſent of garlick?</hi>
+            </p>
+            <p>A. Go-looke.</p>
+            <p>
+               <hi>Q. Why is it ſaid, 'tis better to have a little wit, then a great wit?</hi>
+            </p>
+            <p>A. Becauſe, non eſt magnum ingenium, ſine aliquâ dementiâ.</p>
+            <p>
+               <hi>Q. Why is it ſaid, 'tis better to marry a widow then a maid?</hi>
+            </p>
+            <p>A. Cauſa patet.</p>
+            <p>
+               <hi>Q. Why are not married men to grieve when their wives make them Cuckolds?</hi>
+            </p>
+            <p>A. Becauſe, ſolamen miſeris ſocios—</p>
+            <p>
+               <hi>Q. Why is it ſaid that little heads have more with then great heads?</hi>
+            </p>
+            <p>A. Becauſe, omne majus con<g ref="char:EOLhyphen"/>tinet in ſe minus.</p>
+            <p>
+               <hi>Q. Why is time ſaid to be ſo precious?</hi>
+            </p>
+            <p>A. Becauſe omnium rerum eſt primum.</p>
+            <pb n="22" facs="tcp:170281:12"/>
+            <p>
+               <hi>Q. Why is it ſaid that Princes are not to grant monopolies of ſmal mattors?</hi>
+            </p>
+            <p>A. Becauſe, non vacat exiguis rebus adeſſe Jovi.</p>
+            <p>
+               <hi>Q. Why are batchelours more happy then married men?</hi>
+            </p>
+            <p>A. Becauſe, faelix quem faci<g ref="char:EOLhyphen"/>unt aliorum Cornua, cautum.</p>
+            <p>
+               <hi>Q. Why are not many gallants noto be believ'd when they com<g ref="char:EOLhyphen"/>plement?</hi>
+            </p>
+            <p>A. Becauſe, ex abundancia cordis, os loquitur.</p>
+            <p>
+               <hi>Q. Why is it ſaid that fooles cannot mend their faults?</hi>
+            </p>
+            <p>A. Becauſe, dum vitant, in contraria currant.</p>
+            <p>
+               <hi>Q. Why are Cuckolds ſaid to be like fools?</hi>
+            </p>
+            <p>A. Becauſe, infinitus eſt nu<g ref="char:EOLhyphen"/>merus.</p>
+            <p>
+               <hi>Q. What part of grammer do Ladies like the beſt?</hi>
+            </p>
+            <p>A. Propria quaemaribus.</p>
+            <pb n="23" facs="tcp:170281:12"/>
+            <p>
+               <hi>Q. What two words are thoſe, which ſet all the world together by the eares?</hi>
+            </p>
+            <p>A. Meum and Tuum.</p>
+            <p>
+               <hi>Q. What ſaying in Scripture do Lawyers like the worſt?</hi>
+            </p>
+            <p>A. Pax vobis.</p>
+            <p>
+               <hi>Q. What may a Phyſitian ſay when he is in love?</hi>
+            </p>
+            <p>A. Hei mihi quod nullis A<g ref="char:EOLhyphen"/>mor eſt medicabilis herbis.</p>
+            <p>
+               <hi>Q. What verſe in grammer doth moſt taxe the Clergy?</hi>
+            </p>
+            <p>A. Bos, fur, ſus, atque ſacer<g ref="char:EOLhyphen"/>dos.</p>
+            <p>
+               <hi>Q. What verſe in grammer doth moſt tax the Lawyers?</hi>
+            </p>
+            <p>A. Clamor, rixa, joci, men<g ref="char:EOLhyphen"/>dacia, furta, cachinni.</p>
+            <p>
+               <hi>Q. If one be uncivilly checkt for talking, with the old ſaying, vir ſapit—how may he anſwer?</hi>
+            </p>
+            <p>A. Vir loquitur, qui pauca ſapit.</p>
+            <p>
+               <hi>Q. How may a ſerving man
+<pb n="24" facs="tcp:170281:13"/>excuſe himſelfe, if he lets fall a neates tongue?</hi>
+            </p>
+            <p>A. By ſaying, Non eſt error mentis.</p>
+            <p>
+               <hi>Q. Of a Porter that turnes Preacher, what may be ſaid?</hi>
+            </p>
+            <p>A. Qui color albus erat nunc eſt contrarius albo.</p>
+            <p>
+               <hi>Q. Why cannot women keep ſecrets as well as men?</hi>
+            </p>
+            <p>A. Becauſe they are <hi>pleniores rimarum.</hi>
+            </p>
+            <p>
+               <hi>Q. Why is it ſaid, 'tis prodiga<g ref="char:EOLhyphen"/>lity, and not liberality to give quickly?</hi>
+            </p>
+            <p>A. Becauſe, bis dat, qui cito dat.</p>
+            <p>
+               <hi>Q. Why is the Lye no ſuch affront as it is taken for?</hi>
+            </p>
+            <p>A. Becauſe, omnis homo mendax.</p>
+            <p>
+               <hi>Q. How may the proverb of wiſhers and woulders be neatly ex<g ref="char:EOLhyphen"/>preſt in Latine?</hi>
+            </p>
+            <p>A. ô ſi, ô ſi, otioſi.</p>
+            <pb n="25" facs="tcp:170281:13"/>
+            <p>
+               <hi>Q. How may they be fitly ter<g ref="char:EOLhyphen"/>med who begin many things, and make no end of any?</hi>
+            </p>
+            <p>A. Incipientes, inſipientes.</p>
+            <p>
+               <hi>Q. How may a good fellow ex<g ref="char:EOLhyphen"/>cuſe his frequenting of taverns?</hi>
+            </p>
+            <p>A. That he doth it to find out the truth: for, in vino veritas.</p>
+            <p>
+               <hi>Q. How may one addreſſe his complements to his friend, in a neat and covert manner?</hi>
+            </p>
+            <p>A. Mitto tibi navem prora puppique carentem.</p>
+            <p>
+               <hi>Q. How may one handſomely crave the hearty affection of his friend?</hi>
+            </p>
+            <p>A. Da mediam Lunam (C) ſolem quoque (O) &amp; canis iram (R.)</p>
+            <p>
+               <hi>Q. When would the Devill be a Monk?</hi>
+            </p>
+            <p>A. When he is ſicke.</p>
+            <p>
+               <hi>Q. Is quot capita, tot ingenia, a true ſaying or no?</hi>
+            </p>
+            <p>A. No; for many heads have no wit at all.</p>
+            <pb n="26" facs="tcp:170281:14"/>
+            <p>
+               <hi>Q. What ſaid the ſchool-boy to Queen</hi> Elizabeth, <hi>when ſhe askt him how oft hee had been whipt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Infandum, Regina, jubes renovare dolorem.</p>
+            <p>Q. <hi>What ſaid the Spaniard to the French man, that found a pearle?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Non ſum gallus, ideo non reperi—</p>
+            <p>Q. <hi>Which of the old Romans may be thought to have ſmelt the beſt?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Publius Ovidius Na<g ref="char:EOLhyphen"/>ſo.</p>
+            <p>
+               <hi>Q. VVhy was</hi> Homer <hi>ſaid to be a vigilant Poet?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe hee did but ali<g ref="char:EOLhyphen"/>quando dormire.</p>
+            <p>Q. <hi>Why is</hi> Cicero <hi>ſaid to be a notable Bragadochio?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe hee ſaith—Ego meis majoribus virtute prae<g ref="char:EOLhyphen"/>luxi.</p>
+            <pb n="27" facs="tcp:170281:14"/>
+            <p>Q. <hi>What is a fit motte for the two Temples, antiently the houſes of the Knights-Templars?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Cedant Arma Togae.</p>
+            <p>Q. <hi>Why is the middle Temple ſaid to be more vertuous then the Inner?</hi>
+            </p>
+            <p>A. Becauſe, in medio con<g ref="char:EOLhyphen"/>ſiſtit—</p>
+            <p>
+               <hi>Q. What had been a more pro<g ref="char:EOLhyphen"/>per Arms for the City of London, then their Dudgen dagger?</hi>
+            </p>
+            <p>A. A Cornucopia.</p>
+            <p>
+               <hi>Q. Why are Eunuchs ſaid to grieve more then others?</hi>
+            </p>
+            <p>A. Becauſe, Ille verè dolet, qui ſine Teſte dolet.</p>
+            <p>
+               <hi>Q. Why are wanton women not to be termed light?</hi>
+            </p>
+            <p>A. Becauſe omne grave de<g ref="char:EOLhyphen"/>orſum.</p>
+            <p>
+               <hi>Q. Who is the greateſt whore and whoremaſter that ever was?</hi>
+            </p>
+            <p>A. Ceres &amp; Bacchus: Nam, ſine Cerere &amp; Baccho friget Ve<g ref="char:EOLhyphen"/>nus.</p>
+            <pb n="28" facs="tcp:170281:15"/>
+            <p>
+               <hi>Q. When is a woman to be be<g ref="char:EOLhyphen"/>leev'd?</hi>
+            </p>
+            <p>A. —Nè mortuae quidem.</p>
+            <p>
+               <hi>Q. Why are women ſaid to bee more liberall than men?</hi>
+            </p>
+            <p>A. Becauſe by their good wils, they would have no va<g ref="char:EOLhyphen"/>cuum.</p>
+            <p>
+               <hi>Q. Why was</hi> Philemon <hi>the Tranſlator ſaid to be ſo trouble<g ref="char:EOLhyphen"/>ſome?</hi>
+            </p>
+            <p>A. Becauſe he would not let Suetonius be Tranquillus.</p>
+            <p>
+               <hi>Q. VVhat name would exactly fit an honeſt quiet man, that puts his horns in his pocket?</hi>
+            </p>
+            <p>A. Cornelius Tacitus.</p>
+            <p>
+               <hi>Q. What may be ſaid of an At<g ref="char:EOLhyphen"/>torney made an Under-Sheriffe?</hi>
+            </p>
+            <p>A. Corruptio unius eſt gene<g ref="char:EOLhyphen"/>ratio alterius.</p>
+            <p>
+               <hi>Q. What may be ſaid of Ale<g ref="char:EOLhyphen"/>houſes?</hi>
+            </p>
+            <p>A. Licentiâ omnes deterio<g ref="char:EOLhyphen"/>res ſumus.</p>
+            <pb n="29" facs="tcp:170281:15"/>
+            <p>
+               <hi>Q. Why is it ſaid, That all men are or have been mad?</hi>
+            </p>
+            <p>A. Becauſe, ſemel inſanivi<g ref="char:EOLhyphen"/>mus.</p>
+            <p>Q. <hi>Why is it better to plow then to digge?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe, effodiuntur ir<g ref="char:EOLhyphen"/>ritamenta.</p>
+            <p>Q. <hi>Who may moſt properly be called a miſer?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Qui nummos admiratur.</p>
+            <p>Q. <hi>Why are Uſurers ſaid to be very good Chriſtians?</hi>
+            </p>
+            <p>A. Becauſe, quantum num<g ref="char:EOLhyphen"/>morum quiſquis habet—</p>
+            <p>Q. <hi>What may be ſaid of a wo<g ref="char:EOLhyphen"/>man that is young, witty, fair, and honeſt too? for how can ſhe be fair and honeſt too?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Rara avis—nigroque ſi<g ref="char:EOLhyphen"/>millima—</p>
+            <p>Q. <hi>Why is it ſaid that the beſt women are the moſt contrary to goodneſſe?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe, bonum, quo
+<pb n="30" facs="tcp:170281:16"/>communius eo melius.</p>
+            <p>
+               <hi>Q. Why is it ſaid, That the way to be wiſe is to drinke hard?</hi>
+            </p>
+            <p>A. Becauſe, faecundi calices quem non—</p>
+            <p>
+               <hi>Q. Why are books ſaid to be like cheeſes?</hi>
+            </p>
+            <p>A. Becauſe no cheeſe can pleaſe all feeders, nor any booke all readers.</p>
+            <p>
+               <hi>Q. What is the world like?</hi>
+            </p>
+            <p>A. The ſtage of a play-houſe, and men the actors.</p>
+            <p>
+               <hi>Q. Why is love ſaid to be like a paire of ſpectacles?</hi>
+            </p>
+            <p>A. Becauſe it makes every thing ſeeme bigger and better then it is.</p>
+            <p>
+               <hi>Q. Why is a true noble minde ſaid to be like the Palm tree?</hi>
+            </p>
+            <p>A. Becauſe the more it is de<g ref="char:EOLhyphen"/>preſſed, the more it ſtrives to mount upward.</p>
+            <p>
+               <hi>Q. Why is it ſaid that Lawes
+<pb n="31" facs="tcp:170281:16"/>are like unto ſpiders webs?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe they catch little flies, and let the great ones e<g ref="char:EOLhyphen"/>ſcape.</p>
+            <p>
+               <hi>Q. Who may be ſaid to be the beſt and trueſt lovers?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They onely who love be<g ref="char:EOLhyphen"/>cauſe they love.</p>
+            <p>
+               <hi>Q. When is the fitteſt time for a man to marry?</hi>
+            </p>
+            <p>A. A young man not yet, an old man not at all.</p>
+            <p>
+               <hi>Q. Which is the beſt and ſpee<g ref="char:EOLhyphen"/>dieſt way for diſpatch of buſineſſe?</hi>
+            </p>
+            <p>A. Not to be too haſty.</p>
+            <p>
+               <hi>Q. What rule or way is that, which whoſoever obſerves, ſhall never be deceived?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Not to truſt.</p>
+            <p>
+               <hi>Q. What is the beſt rule or inſtruction concerning playing and jeſting?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Play, but hurt not; jeaſt, but ſhame not.</p>
+            <p>
+               <hi>Q. What is the beſt inſtructi<g ref="char:EOLhyphen"/>on
+<pb n="32" facs="tcp:170281:17"/>concerning loving and hating?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> So to love as though we were to hate; and hate as if wee were to love.</p>
+            <p>Q. <hi>What is the beſt inſtructi<g ref="char:EOLhyphen"/>on concerning learning and living.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> So to learn, as if we were to live alwaies; and ſo to live, as if we were to dye to morrow.</p>
+            <p>Q. <hi>Who may be ſaid to be our beſt companions?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Good bookes.</p>
+            <p>Q. <hi>What two things are thoſe, that put us moſt in mind of mor<g ref="char:EOLhyphen"/>tality?</hi>
+            </p>
+            <p>A. Sleep and luſt.</p>
+            <p>Q. <hi>If a man have a wife a lit<g ref="char:EOLhyphen"/>tle awry, but a very good wife, and be asked why he would chooſe ſuch a one, how may he anſwer?</hi>
+            </p>
+            <p>A. That God had bowed her, and ſent her him for a token.</p>
+            <p>
+               <hi>Q. What is a wiſe mans diſ<g ref="char:EOLhyphen"/>courſe to be likened unto?</hi>
+            </p>
+            <p>A. The opening of a rich ca<g ref="char:EOLhyphen"/>binet.</p>
+            <pb n="33" facs="tcp:170281:17"/>
+            <p>Q. <hi>What kind of men are the blindeſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They that can ſee a moat in other mens eies, and not a beame in their owne.</p>
+            <p>
+               <hi>Q. Why is it ſaid that the Evening is better then the Mor<g ref="char:EOLhyphen"/>ning?</hi>
+            </p>
+            <p>A. Becauſe it crownes the day.</p>
+            <p>
+               <hi>Q. Why are covetous and cru<g ref="char:EOLhyphen"/>ell menlikened to Swine?</hi>
+            </p>
+            <p>A. Becauſe they never doe good till they dye.</p>
+            <p>
+               <hi>Q. Why is it ſaid that our life is like an houre glaſſe, and the ſand like worldly riches?</hi>
+            </p>
+            <p>A. Becauſe they run with us for a ſhort time, and then are turned up by another.</p>
+            <p>
+               <hi>Q. Why is it ſaid that Saty<g ref="char:EOLhyphen"/>riſts are like ſnuffers?</hi>
+            </p>
+            <p>A. Becauſe they doe com<g ref="char:EOLhyphen"/>monly reteine in themſelves the filth they find in others.</p>
+            <pb n="34" facs="tcp:170281:18"/>
+            <p>
+               <hi>Q. How doe wiſe men eſteem of language or words?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> But as of a diſh for to ſerve up the ſence.</p>
+            <p>
+               <hi>Q. What kind of men are they that are likeſt and neareſt to the divine nature?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They whom reaſon, not paſſion moves.</p>
+            <p>
+               <hi>Q. How may we terme the earth in reſpect of the heavens?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Mole-hill.</p>
+            <p>
+               <hi>Q. What kinde of men may be ſaid to be the beſt arm'd?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The fore-warn'd.</p>
+            <p>
+               <hi>Q. Why is it ſaid that friends are now adaies like leaves of trees?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe they ſtick cloſe in ſummer, but drop off in win<g ref="char:EOLhyphen"/>ter.</p>
+            <p>Q. <hi>What is the world to a wiſe man, and to a foole?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A Paradice to the one, and a purgatory to the other.</p>
+            <p>Q. <hi>What may, be ſaid of car<g ref="char:EOLhyphen"/>nall and worldly men?</hi>
+            </p>
+            <pb n="35" facs="tcp:170281:18"/>
+            <p>A. That they make heaven deſcend to earth.</p>
+            <p>Q. <hi>What is the greateſt un<g ref="char:EOLhyphen"/>happineſſe of Shepherds and hus<g ref="char:EOLhyphen"/>bandmen?</hi>
+            </p>
+            <p>A. That they know not their owne happineſſe.</p>
+            <p>Q. <hi>How may wee make our riches, good?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By good uſing of them.</p>
+            <p>Q. <hi>Who may be ſaid to be the beſt and greateſt conqueror?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He who makes his paſ<g ref="char:EOLhyphen"/>ſions ſtand bare about him.</p>
+            <p>Q. <hi>Who may be ſaid to be moſt truly good?</hi>
+            </p>
+            <p>A. He that knowes why he is ſo, and loves goodneſſe for it ſelfe.</p>
+            <p>
+               <hi>Q. Why is it ſaid that new friends are like new wines?</hi>
+            </p>
+            <p>A. Becauſe the hard and harſh are beſt; the moſt pleaſing are leaſt laſting.</p>
+            <p>
+               <hi>Q. What may be ſaid to be our beſt proſpect?</hi>
+            </p>
+            <pb n="36" facs="tcp:170281:19"/>
+            <p>A. To look inward.</p>
+            <p>
+               <hi>Q. What is it that is better and quieter to ſleep in, then a whole skin?</hi>
+            </p>
+            <p>A. A good conſcience.</p>
+            <p>
+               <hi>Q. Why have we two eies, two cares, and but one tongue?</hi>
+            </p>
+            <p>A. Becauſe we ſhould heare and ſee much, and ſay but little.</p>
+            <p>
+               <hi>Q. Why was the Court of</hi> White Hall <hi>ſo called?</hi>
+            </p>
+            <p>A. Becauſe it ſhould bee an example of whiteneſſe and in<g ref="char:EOLhyphen"/>nocency to the whole Nation.</p>
+            <p>
+               <hi>Q. Which is the beſt forreſt to ſhelter a knave or a great belly in?</hi>
+            </p>
+            <p>A. Not Aſhdowne, nor Sherwood, but London.</p>
+            <p>
+               <hi>Q. What place in London is that, where all go in with an ill wil, and many come out with a worſe?</hi>
+            </p>
+            <p>A. New-Gate.</p>
+            <p>
+               <hi>Q. What ſtreet in London doth worſt deſerve its name.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Cheape.</p>
+            <pb n="37" facs="tcp:170281:19"/>
+            <p>Q: <hi>When may it be ſaid, 'tis full Moon in Cheape-ſide?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> When there is no room empty in the Tavern.</p>
+            <p>Q. <hi>Which may be ſaid to be the roaring'ſt place about London?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Tower.</p>
+            <p>Q <hi>Which is the ſweeteſt place in London?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Beare-binder-Lane.</p>
+            <p>Q. <hi>What is</hi> Weſtminſter Hall <hi>like?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A Butlers box at Chriſt<g ref="char:EOLhyphen"/>mas.</p>
+            <p>Q. <hi>Why is there not an Order taken with the boatmen for baw<g ref="char:EOLhyphen"/>ling ſo loud at weſtminſter in the Terme time?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe the Lawyers are us'd to it.</p>
+            <p>Q. <hi>How many hels are there about London?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> But one, and that's at Weſtminſter.</p>
+            <p>Q. <hi>Is there a place there about called heaven?</hi>
+            </p>
+            <pb n="38" facs="tcp:170281:20"/>
+            <p>
+               <hi>A.</hi> There is; but it is out of the Hall.</p>
+            <p>
+               <hi>Q. Which is ſaid to be the ſo<g ref="char:EOLhyphen"/>reſt place in Southwark?</hi>
+            </p>
+            <p>A. Saint Thomas Hoſpitall.</p>
+            <p>
+               <hi>Q. Which is the moſt dogged place about London?</hi>
+            </p>
+            <p>A. Paris Garden.</p>
+            <p>
+               <hi>Q. Which of our Towns may be thought the moſt dangerous to marry a wife in?</hi>
+            </p>
+            <p>A. Shrewsbury.</p>
+            <p>
+               <hi>Q. What Town is the beſt to bring a ſhrewd wife to?</hi>
+            </p>
+            <p>A. Stafford.</p>
+            <p>
+               <hi>Q. Do Ladies go to the bath chiefly to ſee and to be ſeen?</hi>
+            </p>
+            <p>A. No; they go alſo to feele and to be felt.</p>
+            <p>
+               <hi>Q. What Shire (next to Mid<g ref="char:EOLhyphen"/>dleſex) may be thought to have the moſt Cuckolds?</hi>
+            </p>
+            <p>A. Buckingham.</p>
+            <p>
+               <hi>Q. Which of our Counties do women affect moſt to live in?</hi>
+            </p>
+            <pb n="39" facs="tcp:170281:20"/>
+            <p>A. Will-ſhire.</p>
+            <p>
+               <hi>Q. Why do Oxford and Cam<g ref="char:EOLhyphen"/>bridge agree no better?</hi>
+            </p>
+            <p>A. Becauſe they are Siſters.</p>
+            <p>
+               <hi>Q. Why is it ſaid 'tis better to live in the Country, than at Lon<g ref="char:EOLhyphen"/>don?</hi>
+            </p>
+            <p>A. Becauſe (God be thanked) there are no ſuch places there as Hide Parke and Weſtminſter Hall.</p>
+            <p>Q. <hi>Why are there Shops in Weſtminſter Hall?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe a man may have any thing there for money.</p>
+            <p>
+               <hi>Q. Which are the two richeſt acres of ground in</hi> England?</p>
+            <p>
+               <hi>A.</hi> The Exchequer and the Exchange.</p>
+            <p>Q. <hi>What Chamber was of old the worſt to be made fine in?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Starre.</p>
+            <p>Q. <hi>May any thing be ſaid of the Chancery, if the Seal ſhould be put to ſale?</hi>
+            </p>
+            <pb n="40" facs="tcp:170281:21"/>
+            <p>A. Yes Chance-awry.</p>
+            <p>
+               <hi>Q. Why was the Courts of Wards Office ſo near the Church?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe the nearer—</p>
+            <p>
+               <hi>Q. Which of our Courts was moſt in requeſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Privy-ſeals.</p>
+            <p>
+               <hi>Q. Where may a Parrat be fit<g ref="char:EOLhyphen"/>ly plac'd to cry walk knave walk?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> At the Palace-yard in Term time.</p>
+            <p>
+               <hi>Q. Who is ſaid to have been the greateſt Monarch the world ever had?</hi>
+            </p>
+            <p>A. Adam.</p>
+            <p>
+               <hi>Q. Who was the firſt thiefe that ever was?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Adam, for he robb'd Gods Orchard.</p>
+            <p>
+               <hi>Q. Why is it ſaid that man and wife ſhould be like</hi> Adam <hi>and</hi> Eve?</p>
+            <p>
+               <hi>A.</hi> Becauſe he ſhould be all of the world of men to her; ſhe of women to him.</p>
+            <pb n="41" facs="tcp:170281:21"/>
+            <p>
+               <hi>Q. Why is it ſaid that</hi> Adam <hi>and</hi> Eſau <hi>were two of the greateſt prodig als that ever were?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe the one ſold Pa<g ref="char:EOLhyphen"/>radiſe for an Apple, the other his Birth-right for a meſſe of broth.</p>
+            <p>Q. <hi>Who may be ſaid to have had the beſt and largeſt boſome?</hi>
+            </p>
+            <p>A. Abraham.</p>
+            <p>
+               <hi>Q. Who may be ſaid to have had the moſt honourable funerall that ever man had?</hi>
+            </p>
+            <p>A. Moſes.</p>
+            <p>
+               <hi>Q. What was</hi> Job<hi>'s greateſt perſecution?</hi>
+            </p>
+            <p>A. His wiſe.</p>
+            <p>Q. <hi>What place was that, where the voice of one creature might pierce all the eares of the world?</hi>
+            </p>
+            <p>A. The Arke.</p>
+            <p>
+               <hi>Q. Why is it that</hi> Solomon <hi>was ſaid to be a very merry man?</hi>
+            </p>
+            <p>A. Becauſe hee wrote five thouſand ſongs.</p>
+            <p>
+               <hi>Q. Why is</hi> Solomon <hi>ſaid to be
+<pb n="42" facs="tcp:170281:22"/>the moſt uxorious King that ever was?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe hee had ſeven hundred wives.</p>
+            <p>Q. <hi>Who was he that danced before he was born?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Baptiſt.</p>
+            <p>Q. <hi>Who was he that made the beſt, and worſt bargain that ever man did?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Judas.</p>
+            <p>Q. <hi>What may an ignorant hi<g ref="char:EOLhyphen"/>ſtorian take the picture in Alma<g ref="char:EOLhyphen"/>nacks for?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Julius Caeſar.</p>
+            <p>Q. <hi>Which of the valianteſt Greeks had the fouleſt name?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A-jax.</p>
+            <p>
+               <hi>Q Why is it ſaid that wanton wives may be called Diana's?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe they do Actaeon their husbands.</p>
+            <p>Q. <hi>Was St</hi> Peter <hi>ever at Rome, or no?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is doubted by ſome,
+<pb n="43" facs="tcp:170281:22"/>but 'tis certaine that Simon was there.</p>
+            <p>Q. <hi>Why did</hi> Hen. 8. <hi>cauſe his Queen</hi> Anne Bullen <hi>to be behea<g ref="char:EOLhyphen"/>ded?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe ſhe beheaded him.</p>
+            <p>Q. <hi>Which of our Dukes had the ſweeteſt death?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Clarence.</p>
+            <p>Q. <hi>Which of our antient Dukes hath been moſt famous for hospi<g ref="char:EOLhyphen"/>tality?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Duke Humphrey.</p>
+            <p>
+               <hi>Q. Which of our late Tempor all Lords may be ſaid to be moſt ſpi<g ref="char:EOLhyphen"/>rituall?</hi>
+            </p>
+            <p>A. The Earle of Kent.</p>
+            <p>
+               <hi>Q. Who did of late make good that ſaying, to him that hath ſhall be given?</hi>
+            </p>
+            <p>A. Selden.</p>
+            <p>
+               <hi>Q. Why is it ſaid that the mea<g ref="char:EOLhyphen"/>neſt man in London may take the wall of the Lord Mayor?</hi>
+            </p>
+            <p>A. Becauſe of his horſe.</p>
+            <pb n="44" facs="tcp:170281:23"/>
+            <p>
+               <hi>Q. Why did the Biſhops of Durham (being the richer hene<g ref="char:EOLhyphen"/>fice) deſire to be remov'dto</hi> York?</p>
+            <p>A. For want of Grace.</p>
+            <p>
+               <hi>Q. Why is it ſaid that the Bi<g ref="char:EOLhyphen"/>ſhop of Landaff ſhould be called my Lord Aff?</hi>
+            </p>
+            <p>A. Becauſe the Land is gone.</p>
+            <p>
+               <hi>Q. Which of our Biſhops do not the Presbyters deny to be a good man?</hi>
+            </p>
+            <p>A. Gloceſter.</p>
+            <p>
+               <hi>Q. Who was the quondam beſt Cooke in</hi> England?</p>
+            <p>A. The Secretary.</p>
+            <p>
+               <hi>Q. When did Sir</hi> Edward Cook's <hi>name beſt diſcover his fortune?</hi>
+            </p>
+            <p>A. When he was old.</p>
+            <p>
+               <hi>Q. Which of our late Doctors did the worſt deſerve his name?</hi>
+            </p>
+            <p>A. Lamb.</p>
+            <p>Q. <hi>Why was Sir T. Mathewes ſo great a Courtier of Ladies?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To make good Charity miſtaken.</p>
+            <pb n="45" facs="tcp:170281:23"/>
+            <p>Q. <hi>Did Sir William Pyedie in a fit and ſeaſonable time or no?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He did, for it was at Chriſtmaſſe.</p>
+            <p>Q. <hi>Which of our Engliſh Knights had the beſt wife that ever man had?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Sir Thomas Overbury.</p>
+            <p>Q. <hi>How may one whoſe name is Hill, anſwer one that ſaith, H. is no letter?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That it will go—ill with him then.</p>
+            <p>Q. <hi>Which of our Tailors were the moſt famous?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Plaierand the Sculler.</p>
+            <p>Q. <hi>VVho is the moſt famous Cutpurſe of theſe times?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Mal.</p>
+            <p>Q. <hi>Who may be thought to have been the greatest wencher of an Engliſh man?</hi>
+            </p>
+            <p>A. Laurence of Lancaſhire.</p>
+            <p>
+               <hi>Q. Why was it ſaid, That Sir</hi> T. Gardiner <hi>was the fitteſt man to be Recorder of London?</hi>
+            </p>
+            <pb n="46" facs="tcp:170281:24"/>
+            <p>A. Becauſe no place in the Kingdome was more full of weedes.</p>
+            <p>
+               <hi>Why is the King of</hi> Spaine <hi>ſaid to be ſo great a Monarch?</hi>
+            </p>
+            <p>A. Becauſe hee ſacks more Cities and Countries then all other Princes.</p>
+            <p>
+               <hi>Q. What do the Dutch men take death to be?</hi>
+            </p>
+            <p>A. Not to drinke.</p>
+            <p>
+               <hi>Q. Why are Welch men ſaid to be without compariſon on St</hi> David's <hi>day?</hi>
+            </p>
+            <p>A. Becauſe none weare leeks but they.</p>
+            <p>
+               <hi>Q. What brave Engliſh ſhip was that which made an example of the Dutch?</hi>
+            </p>
+            <p>A. The Preſident.</p>
+            <p>
+               <hi>Q. Why do French men weare Rapiers on their bums?</hi>
+            </p>
+            <p>A. Becauſe Engliſh men have ſo often prickt them behind.</p>
+            <p>
+               <hi>Q. Who is the ſecond</hi> Scipio?</p>
+            <pb n="47" facs="tcp:170281:24"/>
+            <p>A. Generall Blake.</p>
+            <p>
+               <hi>Q. Why is it ſaid there are more Jewes then Chriſtians?</hi>
+            </p>
+            <p>A. Becauſe ſo many worſhip the golden calfe.</p>
+            <p>
+               <hi>Q. Why is it ſaid that of all nations, women cannot endure the Italians?</hi>
+            </p>
+            <p>A. Becauſe of their Pad<g ref="char:EOLhyphen"/>locks.</p>
+            <p>
+               <hi>Q. What place is ſaid to bee the worſt to learn french in?</hi>
+            </p>
+            <p>A. The Low Countries.</p>
+            <p>
+               <hi>Q. What was the greateſt cauſe of the Indians undoing?</hi>
+            </p>
+            <p>A. Their Gold.</p>
+            <p>
+               <hi>Q. What is a VVelch mans greateſt enemy?</hi>
+            </p>
+            <p>A. A Mouſe.</p>
+            <p>
+               <hi>Q. Why is it ſaid that Grocers are wiſer then other trades men?</hi>
+            </p>
+            <p>A. Becauſe they can give more reaſons for what they do.</p>
+            <p>
+               <hi>Q. Why are Tinkers ſaid to be ſuch honeſt men?</hi>
+            </p>
+            <pb n="48" facs="tcp:170281:25"/>
+            <p>
+               <hi>A.</hi> Becauſe they caſt the wallet of their faults behinde them.</p>
+            <p>
+               <hi>Q. What trades men are they who may moſt likely be knaves in graine?</hi>
+            </p>
+            <p>A. Milners, Dyers, Bakers.</p>
+            <p>
+               <hi>Q. Why is the Clothiers trade ſuch a ſimple profeſſion?</hi>
+            </p>
+            <p>A. Becauſe their wits go ſo much a wool-gathering.</p>
+            <p>
+               <hi>Q. What kind of tradeſmen do women like the worſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Habberdaſhers of ſmall Ware.</p>
+            <p>
+               <hi>Q. Why are ſmiths ſaid to get their living harder then any men?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe they have no<g ref="char:EOLhyphen"/>thing but what they fetch out of the fire.</p>
+            <p>
+               <hi>Q. Why may Barbers and Ex<g ref="char:EOLhyphen"/>ciſe-men call brothers?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe they are poalers and pillers.</p>
+            <p>
+               <hi>Q. Why is a Shoomaker ſaid to
+<pb n="49" facs="tcp:170281:25"/>bee the fitteſt man to make a Con<g ref="char:EOLhyphen"/>ſtable?</hi>
+            </p>
+            <p>A. Becauſe by vertue of his trade, hee may ſet men in the ſtocks, and eaſe them at Laſt.</p>
+            <p>
+               <hi>Q. Why is it ſaid that three Tailers go to a man?</hi>
+            </p>
+            <p>A. Becauſe foure cannot pleaſe ſome one woman.</p>
+            <p>Q. <hi>Why is a Sculler better then apaire of Oares?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe he has no fellow.</p>
+            <p>
+               <hi>Q. Why are Hoſtlers ſaid to be honeſter then Chamberlains?</hi>
+            </p>
+            <p>A. Becauſe they cozen but hor<g ref="char:EOLhyphen"/>ſes to their faces, the other men</p>
+            <p>
+               <hi>Q. What kinde of Trades-men may be ſaid to ſtand moſt upon points?</hi>
+            </p>
+            <p>A. The Taggers.</p>
+            <p>
+               <hi>Q. Who be they, though never ſo drunken and fooliſh, may yet be truly called Grave men?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Sextons.</p>
+            <p>
+               <hi>Q. Why is it ſaid that water<g ref="char:EOLhyphen"/>men
+<pb n="50" facs="tcp:170281:26"/>may be taken for great Poli<g ref="char:EOLhyphen"/>ticians?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe they row one way, and looke another.</p>
+            <p>
+               <hi>Q. Why doe Sailers differ ſo extreamly from other trades men?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe they are then beſt pleas'd when they goe moſt downe the winde.</p>
+            <p>Q. <hi>Why do Gardiners pretend to goe before other profeſſions?</hi>
+            </p>
+            <p>A. Becauſe it was the firſt man's imploiment.</p>
+            <p>
+               <hi>Q. Who are thoſe that are of great and high calling, and yet but of little account?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Vintners boies and Cham<g ref="char:EOLhyphen"/>berlaines:</p>
+            <p>
+               <hi>Q. Who be they that may be ſaid to be then beſt at eaſe, when they are moſt troubled with ſtitches?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Tailers.</p>
+            <p>
+               <hi>Q. Why is it ſaid we are to be very wary how we deal with Surgeons?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe we ſhall be ſure
+<pb n="51" facs="tcp:170281:26"/>to finde them very ſore men.</p>
+            <p>
+               <hi>Q. How may one make the wiſeſt man that is, to have arun<g ref="char:EOLhyphen"/>ning head of his owne</hi>
+            </p>
+            <p>A. By breaking it.</p>
+            <p>Q. <hi>Which is the beſt way to help on a dull or tired horſe?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By holding a bottle of hay upon a ſticke before his noſe that he may ſtrive to overtake it:</p>
+            <p>Q. <hi>How mayone ride a horſe a hundred miles or two without drawing Bitt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> With a halter?</p>
+            <p>Q. <hi>How may one dine in much company, and yet dine alone?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Among ſtrangers.</p>
+            <p>Q. <hi>How may a ſcholar ſtudy hard, and yet ſtudy very little?</hi>
+            </p>
+            <p>A. Without a cuſhion.</p>
+            <p>Q. <hi>How may a white or a gray horſe be made dun?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By tiring him.</p>
+            <p>Q. <hi>What is the beſt preſerva<g ref="char:EOLhyphen"/>tive againſt famine?</hi>
+            </p>
+            <pb n="52" facs="tcp:170281:27"/>
+            <p>
+               <hi>A.</hi> By feeding before hand on unſavoury meates.</p>
+            <p>
+               <hi>Q. How may one of little lear<g ref="char:EOLhyphen"/>ning, and leſſe wit, be made Mr of Art?</hi>
+            </p>
+            <p>A. Without queſtion.</p>
+            <p>
+               <hi>Q. Which is the ſafeſt place to ſtand in, among unskilful archers?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The marke.</p>
+            <p>Q. <hi>How may one make a dain<g ref="char:EOLhyphen"/>ty feaſt of a good horſe?</hi>
+            </p>
+            <p>A. By ſelling him.</p>
+            <p>
+               <hi>Q. Why are wiſe men the grea<g ref="char:EOLhyphen"/>teſt lyars?</hi>
+            </p>
+            <p>A. Becauſe children and fools ſpeake truth.</p>
+            <p>
+               <hi>Q. Why have theeves more cauſe to be poets then any men?</hi>
+            </p>
+            <p>A. Becauſe they have moſt need of a verſe.</p>
+            <p>
+               <hi>Q. Why are women ſaid to love judiciouſly and wiſely?</hi>
+            </p>
+            <p>A. Becauſe they doe love men more or leſſe according to their good parts.</p>
+            <pb n="53" facs="tcp:170281:27"/>
+            <p>
+               <hi>Q. Why are few women ſaid to be in love with their own names</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe they would glad<g ref="char:EOLhyphen"/>ly change them at any time for a husband.</p>
+            <p>Q. <hi>Why are Phyſitians ſaid to be more unskilfull in the conſtitu<g ref="char:EOLhyphen"/>tions of good men and women then of others?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe the State allows them only whores and thieves to practiſe on.</p>
+            <p>
+               <hi>Q. Why is it ſaid, it is far bet<g ref="char:EOLhyphen"/>ter to be a wittall, then jealous?</hi>
+            </p>
+            <p>A. Becauſe hee knowes the worſt, and is out of feare.</p>
+            <p>Q. <hi>Why are thoſe trades-men ſaid to be moſt kind, who will not truſt a friend?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe they will rather want themſelves, then ſee him a Debtor.</p>
+            <p>Q. <hi>Why is it ſaid, that all other Artiſts of the liberall ſciences may take place of Phyſitians?</hi>
+            </p>
+            <pb n="54" facs="tcp:170281:28"/>
+            <p>
+               <hi>A.</hi> Becauſe by their profeſ<g ref="char:EOLhyphen"/>ſions they are to come behinde.</p>
+            <p>Q. <hi>Why is it ſaid, it is better to have a bad wife, then a good one?</hi>
+            </p>
+            <p>A. Becauſe ſhe brings repen<g ref="char:EOLhyphen"/>tance, and puts one in mind of hell.</p>
+            <p>
+               <hi>Q. Why is it ſaid, that thieves love and confide in their Country more then any men?</hi>
+            </p>
+            <p>A. Becauſe they dare put themſelves upon't though they are hang'd for't.</p>
+            <p>
+               <hi>Q. Why had Chriſtmas-Lords a preheminence above other Lords</hi>
+            </p>
+            <p>A. Becauſe they knew their ends.</p>
+            <p>Q. <hi>Why is it ſaid that beggars lye in greater ſtate then Princes?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe they have hea<g ref="char:EOLhyphen"/>ven for their canopy.</p>
+            <p>
+               <hi>Q. Why are drunkards ſaid to be good Philoſophers?</hi>
+            </p>
+            <p>A. Becauſe they think aright the world runs round.</p>
+            <pb n="55" facs="tcp:170281:28"/>
+            <p>
+               <hi>Q. Why are women fitter for the ſtudy of Aſtronomy then men?</hi>
+            </p>
+            <p>A. Becauſe they lye more on their backs.</p>
+            <p>
+               <hi>Q. Why is wealth better then wit?</hi>
+            </p>
+            <p>A. Becauſe no Poet had e<g ref="char:EOLhyphen"/>ver the luck to be Lord Mayor.</p>
+            <p>
+               <hi>Q. Why are blind men not to be pitied?</hi>
+            </p>
+            <p>A. Becauſe there is much more bad to be ſeen then good.</p>
+            <p>Q. <hi>Why are women more no<g ref="char:EOLhyphen"/>ble Creatures then Eunuchs?</hi>
+            </p>
+            <p>A. Becauſe the maſculine gen<g ref="char:EOLhyphen"/>der is more worthy then the fae<g ref="char:EOLhyphen"/>minine, and the faeminine more worthy then the neuter.</p>
+            <p>Q. <hi>Why is it ſaid, 'tis better to have a bad father then a good one?</hi>
+            </p>
+            <p>A. Becauſe, happy is the ſon whoſe father goes —</p>
+            <p>
+               <hi>Q. Why is it ſaid, 'tis better to be a dwarfe then a proper man?</hi>
+            </p>
+            <pb n="56" facs="tcp:170281:29"/>
+            <p>
+               <hi>A.</hi> Becauſe the properer man the worſe luck.</p>
+            <p>
+               <hi>Q. What is a womans beſt ela<g ref="char:EOLhyphen"/>quence?</hi>
+            </p>
+            <p>A. Her beauty.</p>
+            <p>
+               <hi>Q. Which is the beſt part of a maide?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Her Head.</p>
+            <p>Q. <hi>What is that which the hea<g ref="char:EOLhyphen"/>vier it is, it makes a man the ligh<g ref="char:EOLhyphen"/>ter?</hi>
+            </p>
+            <p>A. A Purſe.</p>
+            <p>
+               <hi>Q. What are poor Tenants beſt orators to their greedy Landlords?</hi>
+            </p>
+            <p>A. Bottles and Baskets.</p>
+            <p>
+               <hi>Q. What kind of meat is that which is alwaies in ſeaſon?</hi>
+            </p>
+            <p>A. Powder'd.</p>
+            <p>Q. <hi>What kind of men may be thought to be the moſt dogged?</hi>
+            </p>
+            <p>A. Hunts-men.</p>
+            <p>
+               <hi>Q. What creature is the grea<g ref="char:EOLhyphen"/>teſt traveller next to a man?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A Louſe.</p>
+            <p>Q. <hi>Were there no boates, how
+<pb n="57" facs="tcp:170281:29"/>ſhould one go over the Thames, if London bridge were away?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Fore-right.</p>
+            <p>Q. <hi>Whatkind of houſe may we ſooneſt find out with following our noſe?</hi>
+            </p>
+            <p>A. That called the Commons.</p>
+            <p>
+               <hi>Q. What makes Lawyers and Guild Hall Clerks ſo fine?</hi>
+            </p>
+            <p>A. Other mens ſuites.</p>
+            <p>
+               <hi>Q. What is the fitteſt inſcripti<g ref="char:EOLhyphen"/>on for a houſe of Offi—</hi>
+            </p>
+            <p>A. Here are f.—to be let.</p>
+            <p>
+               <hi>Q. Which is the higheſt Church in all London, next to St Pauls?</hi>
+            </p>
+            <p>A. St Gregories.</p>
+            <p>
+               <hi>Q. What kind of women may most truly be ſaid to have masks of their owne?</hi>
+            </p>
+            <p>A. The fowle.</p>
+            <p>
+               <hi>Q. Where doth Luke Harun<g ref="char:EOLhyphen"/>ny hold forth?</hi>
+            </p>
+            <p>A. At the three Cranes.</p>
+            <p>
+               <hi>Q. VVhat place is the worſt to give the lye in?</hi>
+            </p>
+            <pb n="58" facs="tcp:170281:30"/>
+            <p>
+               <hi>A.</hi> The throat.</p>
+            <p>Q. <hi>How do young men and women love one another?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Like any thing.</p>
+            <p>Q. <hi>What kind of men are moſt troubled with bad livers?</hi>
+            </p>
+            <p>A. The married.</p>
+            <p>
+               <hi>Q. How deſerves he to be cal<g ref="char:EOLhyphen"/>led, who in a Taverne cals for a Gill of wine, and no more?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Jack.</p>
+            <p>Q. <hi>What kind of fruit is never out of requeſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Lemons.</p>
+            <p>Q <hi>Which may be ſaid to be the merrieſt T<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne of the four?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Hillary.</p>
+            <p>Q. <hi>If a woman have had five husbands, and reckon them upon her fingers, what may be ſaid of her</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That ſhee has made a hand of them all.</p>
+            <p>Q. <hi>If a rich widow ſhould boaſt that ſhe has overcome a Gentle<g ref="char:EOLhyphen"/>man in a Law ſuit: how may he anſwer?</hi>
+            </p>
+            <pb n="59" facs="tcp:170281:30"/>
+            <p>A. That he tooke a wrong Sow by the eare.</p>
+            <p>
+               <hi>Q. If one be askt what he will take to have a good blow given him on the eare?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A head-piece.</p>
+            <p>
+               <hi>Q. If a miſer offer a Gentle<g ref="char:EOLhyphen"/>man to drinke, and ſay (and that very truly) that his beer is dead, how may be reply?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Not unlikely; for it has been very weak a great while.</p>
+            <p>
+               <hi>Q. If one chance to be drow<g ref="char:EOLhyphen"/>ned, may we ſay he's gone the way of all fleſh?</hi>
+            </p>
+            <p>A. No but of fiſh we may.</p>
+            <p>
+               <hi>Q. If a man be derided for ha<g ref="char:EOLhyphen"/>ving but one ſpur when he rides, how may he reply?</hi>
+            </p>
+            <p>A. That if the one ſide of his horſe go on, the other will not tarry behind.</p>
+            <p>
+               <hi>Q. How did the Gentleman anſwer his Lady, that at ſupper, bid him give her a flap of the cony?</hi>
+            </p>
+            <pb n="60" facs="tcp:170281:31"/>
+            <p>
+               <hi>A.</hi> Not before all this com<g ref="char:EOLhyphen"/>pany.</p>
+            <p>
+               <hi>Q. If a Gent. be threatned by a Citizen, may he retaliate with the preverb of a curſt Cow?</hi>
+            </p>
+            <p>A. No; for his wife will take care—</p>
+            <p>
+               <hi>Q. What ſaid the Country fel<g ref="char:EOLhyphen"/>low to an aſtronomer, who as he was taking the height of a ſtar with his</hi> Jacob's <hi>ſtaff, and a mete<g ref="char:EOLhyphen"/>or fell down?</hi>
+            </p>
+            <p>A. Well ſhot i'faith.</p>
+            <p>
+               <hi>Q. If a Cobler diſpute with a Curate, and be too hard for him, what may one ſay?</hi>
+            </p>
+            <p>A. That it is great pity they had not been both Coblers.</p>
+            <p>
+               <hi>Q. What ſaid the Shepherd leading home his wife from the ale-houſe, when he met his fellow Shepherd?</hi>
+            </p>
+            <p>A. Hanc, etiam vix, Tytire, du<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o.</p>
+            <p>
+               <hi>Q. If an old man marry a young
+<pb n="61" facs="tcp:170281:31"/>Lady, what may he ſay the next morning?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Non omnia poſſumus omnes.</p>
+            <p>
+               <hi>Q. Why is it ſaid that a ſonne may have too much of his fathers bleſſings?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe, omne nimium vertitur.</p>
+            <p>Q. <hi>What is the beſt liquor for a Lawyer?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Aurum potabile.</p>
+            <p>Q. <hi>Why is a rich covetous man ſaid to be the pooreſt man that is?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Quia ſemper egit.</p>
+            <p>
+               <hi>Q. What may be ſaid of the faireſt woman that is when in her grave?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Non redoler, ſed olet.</p>
+            <p>
+               <hi>Q. Why is it ſaid, 'tis better to be a fool then a wiſe man?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe, fortuna favet—</p>
+            <p>Q. <hi>What man may be ſaid to have leaſt need of weapons?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Integer vitae, ſceleriſque purus—</p>
+            <pb n="62" facs="tcp:170281:32"/>
+            <p>
+               <hi>Q. Why are fooles ſaid to bee numberleſſe?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe,—plena ſunt om<g ref="char:EOLhyphen"/>nia.</p>
+            <p>Q. <hi>Why are Ladies ſaid to have a princelike, or majeſticall will?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe, ſtat pro ratione-</p>
+            <p>Q. <hi>Why is it ſaid to bee good policy to fall out with the miſtreſs?</hi>
+            </p>
+            <p>A. Becauſe, amantium irae—</p>
+            <p>
+               <hi>Q. Why is it ſaid, the Univerſi<g ref="char:EOLhyphen"/>ties did commend the Lawyer, when they meant to jear him?</hi>
+            </p>
+            <p>A. Becauſe they call'd him ignoramus.</p>
+            <p>
+               <hi>Q. What part or rule of Gram<g ref="char:EOLhyphen"/>mer is of moſt uſe?</hi>
+            </p>
+            <p>A. Faemineo generi tribuun<g ref="char:EOLhyphen"/>tur Propria quae maribus.</p>
+            <p>
+               <hi>Q. Why is it ſaid, that a man that is drunk is not fit to marry?</hi>
+            </p>
+            <p>A. Becauſe hee cannot uxo<g ref="char:EOLhyphen"/>rem ducere.</p>
+            <p>
+               <hi>Q. Why is it ſaid, that</hi> Ovid <hi>was the greateſt blaſphemer of
+<pb n="63" facs="tcp:170281:32"/>women that ever was?</hi>
+            </p>
+            <p>A. Becauſe he ſaid, Caſta eſt quam nemo.</p>
+            <p>
+               <hi>Q. Which was the worſt piece of an honeſt poor man?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Noverint univerſi—</p>
+            <p>
+               <hi>Q. What may a Gent. ſay to his neighbor when he comes home with empty pockets from the Term?</hi>
+            </p>
+            <p>A. Ad concilium nè acceſſe<g ref="char:EOLhyphen"/>ris antequàm —</p>
+            <p>
+               <hi>Q. Why are we not to talke much with wiſe men?</hi>
+            </p>
+            <p>A. Becauſe, verbumſapienti—</p>
+            <p>
+               <hi>Q. How may a learned man be rightly termed?</hi>
+            </p>
+            <p>A. A walking Library.</p>
+            <p>
+               <hi>Q. Who may be ſaid to be tru<g ref="char:EOLhyphen"/>ly in debt?</hi>
+            </p>
+            <p>A. He that meanes to pay.</p>
+            <p>
+               <hi>Q. What faire is that which is ſaid to laſt all the yeare?</hi>
+            </p>
+            <p>A. A married mans.</p>
+            <p>
+               <hi>Q. How may we rightly term good husbands and good wives?</hi>
+            </p>
+            <pb n="64" facs="tcp:170281:33"/>
+            <p>
+               <hi>A.</hi> Hermaphrodites.</p>
+            <p>Q. <hi>What was the firſt ſport or game that ever was plaid at?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Child-getting.</p>
+            <p>Q. <hi>How many daies are there in a yeare?</hi>
+            </p>
+            <p>A. Seven.</p>
+            <p>Q. <hi>What is the difference be<g ref="char:EOLhyphen"/>tween a rich Uſurer, and a rich man that is no Uſurer?</hi>
+            </p>
+            <p>A. Six per Cent.</p>
+            <p>
+               <hi>Q. How may this our age be rightly termed?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Golden.</p>
+            <p>
+               <hi>Q. Why are good women like a lottery?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe there is many a blank for one prize.</p>
+            <p>
+               <hi>Q. Why are widowes like can<g ref="char:EOLhyphen"/>cell'd bonds?</hi>
+            </p>
+            <p>A. Becauſe they have been ſeal'd and deliver'd, and are out of date.</p>
+            <p>Q. <hi>Why doe ſo many deſire to riſe by the Law?</hi>
+            </p>
+            <pb n="65" facs="tcp:170281:33"/>
+            <p>A. Becauſe 'tis death to fall by it.</p>
+            <p>Q. <hi>Which is the worſt way for a man to make himſelfe a fool?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In print.</p>
+            <p>
+               <hi>Q. What kind of pictures are in moſt requeſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Thoſe of Kings.</p>
+            <p>
+               <hi>Q. What kind of fruit is ſaid to be the ſweeteſt?</hi>
+            </p>
+            <p>A. Stolne.</p>
+            <p>
+               <hi>Q. Why is it ſaid the more croſt the more bleſt?</hi>
+            </p>
+            <p>A. Becauſe of money.</p>
+            <p>
+               <hi>Q. Why do women ſpit when men talke bawdy?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe their mouths do water.</p>
+            <p>
+               <hi>Q. What is the prettiest thing for a man to play with?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A faire Lady.</p>
+            <p>Q <hi>Which is the wantonneſt part of a woman?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Her eye.</p>
+            <p>Q. <hi>What is that which makes all women alike?</hi>
+            </p>
+            <pb n="66" facs="tcp:170281:34"/>
+            <p>
+               <hi>A.</hi> The Dark.</p>
+            <p>Q. <hi>How may a man rightly terme his wife?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> His adopted ſelfe.</p>
+            <p>Q. <hi>How is a very woman ſaid to love?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Not the man but the beſt of him.</p>
+            <p>Q. <hi>Why are ſome gallants ſaid to be like Cinamon?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe the barke is bet<g ref="char:EOLhyphen"/>ter then the body.</p>
+            <p>Q. <hi>Why are complementall Courtiers ſaid to be like Grub<g ref="char:EOLhyphen"/>ſtreet pamphlets?</hi>
+            </p>
+            <p>A. Becauſe they promiſe great matters, &amp; perform juſt nothing.</p>
+            <p>
+               <hi>Q. What kind of ſickneſſe are women moſt ſubject to?</hi>
+            </p>
+            <p>A. The Falling.</p>
+            <p>Q. <hi>What kind of Jointures do Ladies like the beſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Body to Body.</p>
+            <p>Q. <hi>What kind of men may be termed the moſt ſawcy?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Cooks.</p>
+            <pb n="67" facs="tcp:170281:34"/>
+            <p>Q. <hi>Why is marriage called a yoake?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe many men are like Oxen.</p>
+            <p>Q. <hi>Why is it ſaid that Uſurers may be thought to be very honeſt men?</hi>
+            </p>
+            <p>A. Becauſe they ſtand ſo much upon conditions.</p>
+            <p>
+               <hi>Q. What is thought to be the greateſt diſhoneſty?</hi>
+            </p>
+            <p>A. Poverty.</p>
+            <p>
+               <hi>Q. Why is it ſaid, that long ly<g ref="char:EOLhyphen"/>ing in is a moſt dangerous and vi<g ref="char:EOLhyphen"/>tious quality?</hi>
+            </p>
+            <p>A. Becauſe he muſt riſe betimes who wou<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d couzen the Devill.</p>
+            <p>
+               <hi>Q. W<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t is the difference be<g ref="char:EOLhyphen"/>tween a rich glutton and a cove<g ref="char:EOLhyphen"/>tous man?</hi>
+            </p>
+            <p>A. The one puts his money in his belly, the other his belly in his purſe.</p>
+            <p>
+               <hi>Q. What may be ſaid of one that is overcome with paſſion?</hi>
+            </p>
+            <pb n="68" facs="tcp:170281:35"/>
+            <p>A. That he is dry drunk.</p>
+            <p>
+               <hi>Q. What foure words are thoſe which are ſaid to be of one ſignifi<g ref="char:EOLhyphen"/>cation?</hi>
+            </p>
+            <p>A. Poets, Travellers, Liers, and Lovers.</p>
+            <p>
+               <hi>Q Why is it ſaid that fools are not to be accounted on?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe they cannot bee counted.</p>
+            <p>Q. <hi>Wherefore doth a man cry</hi> Atkins <hi>when he lets a fart?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe it is an anagram for a ſtinke.</p>
+            <p>
+               <hi>Q. Wherefore do Anabaptiſts hate ſteeple-houſes?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe they dread the rope</p>
+            <p>Q. <hi>What may a cunning bar<g ref="char:EOLhyphen"/>ber be aptly called?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A notable ſhaver.</p>
+            <p>Q. <hi>Why is it generally ſaid that wooll is the moſt warmeſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe it is ſpelt al with double letters.</p>
+            <p>
+               <hi>Q. VVhy doth a dog turn round
+<pb n="69" facs="tcp:170281:35"/>ſo often before he lies down?</hi>
+            </p>
+            <p>A. Becauſe he goes about to lye down.</p>
+            <p>
+               <hi>Q. Why are priſoners ſaid to be good fencers?</hi>
+            </p>
+            <p>A. Becauſe they keep their ward.</p>
+            <p>
+               <hi>Q. Why are poor men ſaid to be moſt healthy.</hi>
+            </p>
+            <p>A. Becauſe they ſeldom keep their beds.</p>
+            <p>
+               <hi>Q. Of all men which are the beſt Heralds?</hi>
+            </p>
+            <p>A. Welch men, for they ſpeak pedegrees naturally.</p>
+            <p>
+               <hi>Q. Why may a ſerving man be ſaid to be alwaies drunk?</hi>
+            </p>
+            <p>A. Becauſe he is not his own man.</p>
+            <p>
+               <hi>Q. What knaves are the boldeſt?</hi>
+            </p>
+            <p>A. Hoſtlers; for behind your back, they'll cheat your horſe to his face.</p>
+            <p>
+               <hi>Q. What men are beſt meat?</hi>
+            </p>
+            <p>A. Saylors, for they live in pickle.</p>
+            <pb n="70" facs="tcp:170281:36"/>
+            <p>
+               <hi>Q. What fiſh are moſt delightful?</hi>
+            </p>
+            <p>A. Maides.</p>
+            <p>
+               <hi>Q. Why do pick pockets go to</hi> Bridewell <hi>ſo often?</hi>
+            </p>
+            <p>A. Becauſe they get mony by it.</p>
+            <p>
+               <hi>Q. How do Lawyers come to be famous?</hi>
+            </p>
+            <p>A. By reports.</p>
+            <p>
+               <hi>Q. By what meaſure do women deſire to trade?</hi>
+            </p>
+            <p>A. The yard.</p>
+            <p>A. <hi>Why did</hi> Lilburne <hi>leave his boiling ſope?</hi>
+            </p>
+            <p>A. Becauſe he found himſelfe in the ſuds.</p>
+            <p>
+               <hi>Q. Of Chyrurgions which hath the beſt cunning?</hi>
+            </p>
+            <p>A: He that lets blood in the purſe.</p>
+            <p>
+               <hi>Q. What may a</hi> Baker <hi>wiſh he never had?</hi>
+            </p>
+            <p>A. His eares.</p>
+            <p>Q. <hi>What fruit rots alive?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Open Arſes.</p>
+            <p>Q. <hi>What trades-men never truſt?</hi>
+            </p>
+            <pb n="71" facs="tcp:170281:36"/>
+            <p>A. Pick pockets.</p>
+            <p>
+               <hi>Q. Who is he drawes liquor of life?</hi>
+            </p>
+            <p>A. The Hangman.</p>
+            <p>
+               <hi>Q. Where would a woman have her husband lye, than in the ſtocks?</hi>
+            </p>
+            <p>A. In a hole.</p>
+            <p>
+               <hi>Q. What creature beares beſt?</hi>
+            </p>
+            <p>A. Aſſes and Women.</p>
+            <p>
+               <hi>Q. Why are women the weaker veſſels?</hi>
+            </p>
+            <p>A. Becauſe they are ſooneſt cracked.</p>
+            <p>
+               <hi>Q. What piece carries fartheſt?</hi>
+            </p>
+            <p>A. A piece of meate.</p>
+            <p>
+               <hi>Q. What men have beſt ſoles?</hi>
+            </p>
+            <p>A. Coblers.</p>
+            <p>
+               <hi>Q. To whom do blades repair often?</hi>
+            </p>
+            <p>A. To Cutlers.</p>
+            <p>
+               <hi>Q. What birds have longeſt bils?</hi>
+            </p>
+            <p>A. Tailers.</p>
+            <p>
+               <hi>Q. What trades men are lon<g ref="char:EOLhyphen"/>geſt lived?</hi>
+            </p>
+            <pb n="72" facs="tcp:170281:37"/>
+            <p>A. Shoomakers, for they live at laſt?</p>
+            <p>
+               <hi>Q. What men live like horſes?</hi>
+            </p>
+            <p>A. Tapſters, for they are al<g ref="char:EOLhyphen"/>waies a drawing.</p>
+            <p>
+               <hi>Q. What's the worſt part of a lyers?</hi>
+            </p>
+            <p>A. His conditions.</p>
+            <p>
+               <hi>Q. What made</hi> Diogenes <hi>ſeeke honest men at night?</hi>
+            </p>
+            <p>A. His Lanthorne.</p>
+            <p>Q. <hi>Why is it not good to eat hony with a Bear?</hi>
+            </p>
+            <p>A. Becauſe he will have the greateſt ſhare.</p>
+            <p>Q. <hi>Why is it ſo impoſſible to raviſh ſome laſſes?</hi>
+            </p>
+            <p>Becauſe they are willing.</p>
+            <p>Q. <hi>Were there ever more wat<g ref="char:EOLhyphen"/>ches?</hi>
+            </p>
+            <p>A. No, nor time worſe ſpent.</p>
+            <p>Q. <hi>What makes a woman wiſe?</hi>
+            </p>
+            <p>A. A houſe well furniſhed.</p>
+            <p>Q. <hi>Of what ſort of men doth</hi> Horn Faire <hi>chiefly conſiſt?</hi>
+            </p>
+            <p>A. Of Citizens.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
